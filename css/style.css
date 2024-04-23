@@ -15,7 +15,7 @@ main {background-color: #fff;
     margin-right:40px;
     margin-left: 50px;
     margin-top: 50px;
-
+    box-sizing: border-box;
 }
 
 hr {width: 180px;
@@ -26,17 +26,21 @@ hr {width: 180px;
 .block_2 {
     margin-right: 40px;
     margin-top: 50px;
+    box-sizing: border-box;
 }
 
 .block_3 {
     margin-right: 40px;
     margin-top: 50px;
+    box-sizing: border-box;
 }
 
 .block_4 {
     margin-right: 40px;
     margin-top: 50px;
+    box-sizing: border-box;
 }
+
  p {
      color: #B2B2B2;
      padding-top: 10px;
